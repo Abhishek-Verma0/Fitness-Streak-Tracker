@@ -19,7 +19,7 @@ A full-stack web application to help users **track their daily fitness streaks**
 | Tech | Usage |
 |------|-------|
 | **Frontend** | TypeScript  |
-| **Backend** | Node.js, Express |
+| **Backend** |  Express |
 | **Database** | MongoDB (Mongoose) |
 | **Auth** | Custom-built (Using ) |
 | **AI** | Gemini API (by Google) |
